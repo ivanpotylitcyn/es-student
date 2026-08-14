@@ -1,0 +1,22 @@
+git version 2.50.1 (Apple Git-155)
+cmake version 4.2.3
+
+CMake suite maintained and supported by Kitware (kitware.com/cmake).
+GNU Make 3.81
+Copyright (C) 2006  Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.
+There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE.
+
+This program built for i386-apple-darwin11.3.0
+arm-none-eabi-gcc (Arm GNU Toolchain 15.3.Rel1 (Build arm-15.149)) 15.3.1 20260627
+Copyright (C) 2025 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+picotool v2.3.0 (Darwin, AppleClang-21.0.0.21000099, Release)
+1.133.0
+a5b500951314efd502d07465bd138dfbd714a960
+arm64
+Python 3.11.4
+PICO_SDK_PATH=/Users/ivanpotylitcyn/Repositories/pico/pico-sdk
