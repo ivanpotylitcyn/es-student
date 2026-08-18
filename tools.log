@@ -1,6 +1,6 @@
-git version 2.50.1 (Apple Git-155)
-Python 3.11.4
-cmake version 4.2.3
+﻿git version 2.42.0.windows.2
+Python 3.13.14
+cmake version 3.30.0
 GNU Make 3.81
 arm-none-eabi-gcc (Arm GNU Toolchain 15.3.Rel1 (Build arm-15.149)) 15.3.1 20260627
 code 1.133.0
