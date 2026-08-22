@@ -7,3 +7,4 @@ on:
 jobs:
   check:
     uses: ant-lab-ru/es-test/.github/workflows/check-1-1-1.yml@master
+    secrets: inherit
