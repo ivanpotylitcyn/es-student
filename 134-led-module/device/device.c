@@ -2,7 +2,8 @@
 
 #include <stdio.h>
 #include "pico/unique_id.h"
-#include "hardware/structs/sysinfo.h"
+#include "hardware/regs/addressmap.h"
+#include "hardware/regs/sysinfo.h"
 
 void device_info(void)
 {
