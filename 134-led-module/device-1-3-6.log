@@ -3,17 +3,17 @@
 устройство: 2e8a:000a
 серийный номер: E66098F29B227B32
 порт: /dev/cu.usbmodem1401
-начало: 2026-09-11T22:43:58
+начало: 2026-09-11T22:54:52
    0.000 --> v
-   0.020 <-- dbg main:70 got v
-   0.021 <-- es-led-module 1.0.0, built Sep 11 2026 22:34:09, log level 3
-   1.026 --> e
-   1.039 <-- dbg main:70 got e
-   1.039 <-- inf handle_command:22 led on
-   2.043 --> d
-   2.059 <-- dbg main:70 got d
-   2.059 <-- inf handle_command:27 led off
-   3.064 --> q
-   3.080 <-- dbg main:70 got q
-   3.080 <-- err handle_command:35 unknown command: q
+   0.008 <-- dbg main:70 got v
+   0.008 <-- es-led-module 1.0.0, built Sep 11 2026 22:34:09, log level 3
+   1.013 --> e
+   1.028 <-- dbg main:70 got e
+   1.028 <-- inf handle_command:22 led on
+   2.032 --> d
+   2.049 <-- dbg main:70 got d
+   2.049 <-- inf handle_command:27 led off
+   3.050 --> q
+   3.069 <-- dbg main:70 got q
+   3.069 <-- err handle_command:35 unknown command: q
 итог: отправлено команд 4

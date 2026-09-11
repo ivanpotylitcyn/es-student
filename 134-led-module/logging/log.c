@@ -1,8 +1,9 @@
 #include "log.h"
+#include "device.h"
 
 void log_version(void)
 {
-    printf("%s %s, built %s %s, log level %d\n",
+    printf("device: %s %s, built %s %s, log level %d\n",
            DEVICE_NAME, FIRMWARE_VERSION, __DATE__, __TIME__, LOG_LEVEL);
 }
 
